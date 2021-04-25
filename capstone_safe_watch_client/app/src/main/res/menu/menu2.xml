@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_btn1"
+        android:title="비밀번호 설정"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_btn2"
+        android:title="신고 취소"
+        app:showAsAction="collapseActionView" />
+    <item android:id="@+id/action_btn3"
+        android:title="보호자 등록"
+        app:showAsAction="collapseActionView" />
+</menu>
